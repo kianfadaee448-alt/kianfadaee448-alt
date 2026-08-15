@@ -1,66 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kianoush%20Fadaee&fontSize=42&fontAlignY=35&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:7c3aed&height=220&section=header&text=Kianoush%20Fadaee&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Python%20Developer%20%7C%20Chemistry%20%7C%20Builder&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
-### 🇮🇷 فارسی &nbsp;|&nbsp; 🇬🇧 English
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+ChimiLab+%F0%9F%A7%AA;Python+%7C+PySide6+%7C+SQLite;Learning%2C+Building%2C+Experimenting;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/kianfadaee448-alt)
+[![ChimiLab](https://img.shields.io/badge/Project-ChimiLab-06B6D4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kianfadaee448-alt/ChimiLab)
+[![Website](https://img.shields.io/badge/Website-chimilab.ir-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimilab.ir)
 
 </div>
 
 ---
 
-### 👋 سلام! من **کیانوش فدائی** هستم  
-**Hi! I am Kianoush Fadaee**
+## 👋 سلام! من کیانوش فدائی هستم
 
-۱۶ ساله و دانش‌آموز کلاس نهم هستم. از بچگی عاشق حل مسئله و ساختن چیزهای جدید بودم. الان با **پایتون در سطح پیشرفته** کار می‌کنم و بیشتر وقتم را صرف توسعه پروژه‌های واقعی می‌کنم.
+من یک **توسعه‌دهنده پایتون و سازنده پروژه‌های آموزشی** هستم که بیشتر از حفظ کردن تکنولوژی‌ها، به ساختن چیزهای واقعی علاقه دارم.
 
-I am 16 years old and currently in 9th grade. I have always loved solving problems and building things. Right now I work with **Python at an advanced level** and spend most of my time developing real projects.
+تمرکز اصلی فعلی من روی **ChimiLab** است؛ یک شبیه‌ساز آزمایشگاه شیمی که برای ترکیب برنامه‌نویسی، آموزش و شبیه‌سازی ساخته شده است.
 
----
-
-### 💻 مهارت‌ها / Skills
-
-- **Python (Advanced)** — شی‌گرایی، ساختارهای داده، رابط گرافیکی با PySide6، کار با دیتابیس SQLite و پروژه‌های نسبتاً بزرگ
-- علاقه‌مند به شیمی و ساخت ابزارهای آموزشی و شبیه‌سازی آزمایشگاهی
-- تجربه کار با رابط کاربری دسکتاپ، مدیریت داده و طراحی سیستم‌های تعاملی
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+> 🧪 **Build → Experiment → Learn → Improve**
 
 ---
 
-### 🧪 پروژه فعلی / Current Project
+## 🧰 Tech Stack
 
-**[ChimiLab](https://github.com/kianfadaee448-alt/ChimiLab)**  
-شبیه‌ساز کامل آزمایشگاه شیمی با رابط گرافیکی، واکنش‌های شیمیایی واقعی، تیتراسیون، محاسبه فرمول و دیتابیس مواد.  
-A complete chemistry laboratory simulator with graphical interface, real chemical reactions, titration, formula calculation and chemical database.
+<div align="center">
 
-🌐 سایت پروژه: **[chimilab.ir](https://chimilab.ir)**
+<a href="https://www.python.org/"><img src="./assets/skills/python.svg" width="82" alt="Python"/></a>
+<a href="https://doc.qt.io/qtforpython/"><img src="./assets/skills/pyside6.svg" width="82" alt="PySide6"/></a>
+<a href="https://www.sqlite.org/"><img src="./assets/skills/sqlite.svg" width="82" alt="SQLite"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/skills/html.svg" width="82" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/skills/css.svg" width="82" alt="CSS"/></a>
+<a href="https://github.com/"><img src="./assets/skills/github.svg" width="82" alt="GitHub"/></a>
+
+</div>
+
+<p align="center">
+  <sub>Python • PySide6 • SQLite • HTML • CSS • GitHub</sub>
+</p>
 
 ---
 
-### 🎯 اهداف / Goals
+## 🧪 Featured Project — ChimiLab
 
-- ادامه توسعه ChimiLab و اضافه کردن ویژگی‌های بیشتر
-- یادگیری عمیق‌تر الگوریتم‌ها و ساختارهای داده
-- ساخت پروژه‌های آموزشی بیشتر در حوزه شیمی و علوم
+<a href="https://github.com/kianfadaee448-alt/ChimiLab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kianfadaee448-alt&repo=ChimiLab&theme=tokyonight&hide_border=true" alt="ChimiLab repository card"/>
+</a>
+
+**ChimiLab** یک شبیه‌ساز آزمایشگاه شیمی با تمرکز روی تجربه آموزشی و تعاملی است.
+
+### ⚗️ What it does
+
+- 🧪 شبیه‌سازی واکنش‌های شیمیایی
+- 🔬 آزمایش‌ها و ابزارهای مجازی
+- 📊 محاسبات و تحلیل داده‌های شیمیایی
+- 🗃️ دیتابیس مواد و واکنش‌ها
+- 🖥️ رابط گرافیکی با PySide6
+- 🇮🇷 پشتیبانی از فارسی
+
+**[→ مشاهده ChimiLab](https://github.com/kianfadaee448-alt/ChimiLab)**
 
 ---
 
-### 📫 ارتباط با من / Contact
+## 📊 GitHub Activity
 
-اگر سوالی داشتی یا خواستی در مورد پروژه‌ها حرف بزنی، خوشحال می‌شم!  
-Feel free to reach out if you have any questions or want to talk about projects!
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kianfadaee448-alt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianfadaee448-alt&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kianfadaee448-alt&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+ChimiLab              ████████████████████  Building
+Python                ███████████████████░  Advancing
+Algorithms            ███████████████░░░░░  Learning
+UI / UX               ██████████████░░░░░░  Improving
+Chemistry Simulation  █████████████████░░░  Exploring
+```
+
+---
+
+## 🌱 Goals
+
+- 🚀 توسعه جدی‌تر ChimiLab
+- 🧠 عمیق‌تر شدن در الگوریتم‌ها و ساختار داده
+- 🧪 ساخت ابزارهای آموزشی علمی بیشتر
+- 🎨 بهتر کردن UI/UX پروژه‌ها
+- 🛠️ تبدیل ایده‌ها به پروژه‌های واقعی و قابل استفاده
+
+---
+
+## 📫 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-kianfadaee448--alt-181717?style=for-the-badge&logo=github)](https://github.com/kianfadaee448-alt)
+[![ChimiLab](https://img.shields.io/badge/ChimiLab-Repository-06B6D4?style=for-the-badge&logo=github)](https://github.com/kianfadaee448-alt/ChimiLab)
+[![Website](https://img.shields.io/badge/chimilab.ir-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimilab.ir)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kianfadaee448-alt&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=kianfadaee448-alt&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views"/>
 
-**Thanks for visiting! ⭐**
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:164e63,100:0f172a&height=110&section=footer" width="100%"/>
 
 </div>
