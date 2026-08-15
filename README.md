@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:164e63,70:7c3aed,100:c026d3&height=240&section=header&text=Kianoush%20Fadaee&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:164e63,70:7c3aed,100:c026d3&height=260&section=header&text=Kianoush%20Fadaee&fontSize=54&fontColor=ffffff&fontAlignY=30&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Building+ChimiLab+%F0%9F%A7%AA;Python+%7C+PySide6+%7C+SQLite;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Building+ChimiLab+%F0%9F%A7%AA;Python+%7C+PySide6+%7C+SQLite;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,17 +34,38 @@
 
 <div align="center">
 
-<!-- Skill Icons (modern & clean) -->
-<img src="https://skillicons.dev/icons?i=python,qt,sqlite,html,css,github,vscode,linux&theme=dark" alt="Tech Stack" />
+<!-- Big colorful skill icons -->
+<a href="https://www.python.org/" title="Python">
+  <img src="./assets/skills/python.svg" width="90" height="90" alt="Python"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://doc.qt.io/qtforpython/" title="PySide6 / Qt">
+  <img src="./assets/skills/qt.svg" width="90" height="90" alt="Qt / PySide6"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.sqlite.org/" title="SQLite">
+  <img src="./assets/skills/sqlite.svg" width="90" height="90" alt="SQLite"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <img src="./assets/skills/html.svg" width="90" height="90" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <img src="./assets/skills/css.svg" width="90" height="90" alt="CSS3"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/" title="GitHub">
+  <img src="./assets/skills/github.svg" width="90" height="90" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code">
+  <img src="./assets/skills/vscode.svg" width="90" height="90" alt="VS Code"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.python.org/"><img src="./assets/skills/python.svg" width="70" alt="Python"/></a>
-<a href="https://doc.qt.io/qtforpython/"><img src="./assets/skills/pyside6.svg" width="70" alt="PySide6"/></a>
-<a href="https://www.sqlite.org/"><img src="./assets/skills/sqlite.svg" width="70" alt="SQLite"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/skills/html.svg" width="70" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/skills/css.svg" width="70" alt="CSS"/></a>
-<a href="https://github.com/"><img src="./assets/skills/github.svg" width="70" alt="GitHub"/></a>
+<img src="https://skillicons.dev/icons?i=python,qt,sqlite,html,css,github,vscode,linux,bash&theme=dark&perline=9" alt="Tech Stack" />
 
 </div>
 
@@ -81,8 +102,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kianfadaee448-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=c026d3&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianfadaee448-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kianfadaee448-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=c026d3&rank_icon=github" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianfadaee448-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -130,6 +151,6 @@ Chemistry Simulation  █████████████████░░�
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=130&section=footer" width="100%"/>
 
 </div>
