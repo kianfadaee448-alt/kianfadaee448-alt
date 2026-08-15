@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:164e63,70:7c3aed,100:c026d3&height=260&section=header&text=Kianoush%20Fadaee&fontSize=54&fontColor=ffffff&fontAlignY=30&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:7c3aed,100:c026d3&height=270&section=header&text=Kianoush%20Fadaee&fontSize=56&fontColor=ffffff&fontAlignY=30&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Social & Project Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianfadaee448-alt)
 [![ChimiLab](https://img.shields.io/badge/ChimiLab-Live_Project-06B6D4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kianfadaee448-alt/ChimiLab)
 [![Website](https://img.shields.io/badge/chimilab.ir-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimilab.ir)
@@ -27,47 +26,6 @@
 تمرکز اصلی فعلی من روی **ChimiLab** است؛ یک شبیه‌ساز آزمایشگاه شیمی که برنامه‌نویسی، آموزش و شبیه‌سازی را با هم ترکیب می‌کند.
 
 > 🧪 **Build → Experiment → Learn → Improve**
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<!-- Big colorful skill icons -->
-<a href="https://www.python.org/" title="Python">
-  <img src="./assets/skills/python.svg" width="90" height="90" alt="Python"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://doc.qt.io/qtforpython/" title="PySide6 / Qt">
-  <img src="./assets/skills/qt.svg" width="90" height="90" alt="Qt / PySide6"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.sqlite.org/" title="SQLite">
-  <img src="./assets/skills/sqlite.svg" width="90" height="90" alt="SQLite"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-  <img src="./assets/skills/html.svg" width="90" height="90" alt="HTML5"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-  <img src="./assets/skills/css.svg" width="90" height="90" alt="CSS3"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/" title="GitHub">
-  <img src="./assets/skills/github.svg" width="90" height="90" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" title="VS Code">
-  <img src="./assets/skills/vscode.svg" width="90" height="90" alt="VS Code"/>
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,qt,sqlite,html,css,github,vscode,linux,bash&theme=dark&perline=9" alt="Tech Stack" />
-
-</div>
 
 ---
 
@@ -113,6 +71,20 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Light mode -->
+<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Dark mode -->
+<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```text
@@ -151,6 +123,6 @@ Chemistry Simulation  █████████████████░░�
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=140&section=footer" width="100%"/>
 
 </div>
