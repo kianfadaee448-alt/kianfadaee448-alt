@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:7c3aed,100:c026d3&height=270&section=header&text=Kianoush%20Fadaee&fontSize=56&fontColor=ffffff&fontAlignY=30&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:7c3aed,100:c026d3&height=280&section=header&text=Kianoush%20Fadaee&fontSize=56&fontColor=ffffff&fontAlignY=30&desc=Python%20Developer%20%7C%20Chemistry%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -29,7 +29,11 @@
 
 ---
 
-## 🧪 Featured Project — ChimiLab
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,15,20,24&height=60&section=header&text=Featured%20Project&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+## 🧪 ChimiLab
 
 <div align="center">
 
@@ -52,11 +56,15 @@
 | 🖥️ | رابط گرافیکی مدرن با PySide6 |
 | 🇮🇷 | پشتیبانی کامل از فارسی |
 
-**[→ مشاهده کامل پروژه ChimiLab](https://github.com/kianfadaee448-alt/ChimiLab)**
+**[→ مشاهده کامل پروژه](https://github.com/kianfadaee448-alt/ChimiLab)**
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,15,20,24&height=60&section=header&text=GitHub%20Stats&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+## 📊 آمار فعالیت
 
 <div align="center">
 
@@ -71,39 +79,25 @@
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,15,20,24&height=60&section=header&text=Contribution%20Snake&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
 ---
-
-## 🎮 More Contribution Animations
 
 <div align="center">
-
-### 🌧️ Rain Effect
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=rain&theme=tokyonight&shape=square" alt="Rain animation" width="100%"/>
-
-### 🟩 Matrix Effect
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=matrix&theme=tokyonight&shape=square" alt="Matrix animation" width="100%"/>
-
-### 🌊 Wave Effect
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=wave&theme=tokyonight&shape=circle" alt="Wave animation" width="100%"/>
-
-### ✨ Glow Effect
-<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=glow&theme=tokyonight&shape=square" alt="Glow animation" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,15,20,24&height=60&section=header&text=Current%20Focus&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
----
-
-## 🎯 Current Focus
+## 🎯 تمرکز فعلی
 
 ```text
 ChimiLab              ████████████████████  Building
@@ -141,6 +135,6 @@ Chemistry Simulation  █████████████████░░�
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,40:7c3aed,70:164e63,100:0f172a&height=150&section=footer&text=See%20you%20soon!&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%"/>
 
 </div>
