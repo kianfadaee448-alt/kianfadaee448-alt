@@ -75,11 +75,29 @@
 
 <div align="center">
 
-<!-- Light mode -->
 <img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<!-- Dark mode -->
-<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
+<img src="https://raw.githubusercontent.com/kianfadaee448-alt/kianfadaee448-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+
+</div>
+
+---
+
+## 🎮 More Contribution Animations
+
+<div align="center">
+
+### 🌧️ Rain Effect
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=rain&theme=tokyonight&shape=square" alt="Rain animation" width="100%"/>
+
+### 🟩 Matrix Effect
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=matrix&theme=tokyonight&shape=square" alt="Matrix animation" width="100%"/>
+
+### 🌊 Wave Effect
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=wave&theme=tokyonight&shape=circle" alt="Wave animation" width="100%"/>
+
+### ✨ Glow Effect
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=kianfadaee448-alt&animation=glow&theme=tokyonight&shape=square" alt="Glow animation" width="100%"/>
 
 </div>
 
